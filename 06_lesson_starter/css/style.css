@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+/*
+
+Typography is the way that text
+is arranged and presented.
+
+*/
+
+body {
+    padding: 25%;
+    font-size: 2rem;
+}
+
+/* input, button {
+  font: inherit;
+} */
+
+p {
+    line-height: 1.5;
+    font-weight: normal;
+}
+
+.p1 {
+    font-size: 1.5rem;
+    font-family: 'Open Sans', sans-serif;
+}
